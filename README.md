@@ -8,6 +8,7 @@ https://bitcoincore.org/en/download/.
 
 What is Bitcoin Core?
 ---------------------
+CLAY WAS HERE
 
 Bitcoin Core connects to the Bitcoin peer-to-peer network to download and fully
 validate blocks and transactions. It also includes a wallet and graphical user
